@@ -8,23 +8,6 @@
 
 ---
 
-## `// SYSTEM.IDENTITY`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                 DIGITAL PROFILE                       ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  USER        :: lsilvszx                             ║
-║  ROLE        :: Systems Development Student          ║
-║  FOCUS       :: Front-End Development                ║
-║  STACK       :: HTML • CSS • JavaScript               ║
-║                 PHP • Python                         ║
-║  STATUS      :: [ STUDYING & BUILDING ]              ║
-║  MODE        :: CREATIVE / PROBLEM SOLVER            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ## `> SOBRE MIM`
 
@@ -62,7 +45,7 @@ class Developer:
 
 ---
 
-# 💜 `// TECH_STACK`
+# 💜 ` TECH_STACK`
 
 <div align="center">
 
@@ -86,7 +69,7 @@ class Developer:
 
 ---
 
-# 💜 `// DEVELOPMENT_ENVIRONMENT`
+# 💜 ` DEVELOPMENT_ENVIRONMENT`
 
 <div align="center">
 
@@ -104,7 +87,7 @@ class Developer:
 
 ---
 
-# 💜 `// CURRENT_OBJECTIVES`
+# 💜 ` CURRENT_OBJECTIVES`
 
 ```text
 ╭──────────────────────────────────────────────────────╮
@@ -128,7 +111,7 @@ SYSTEM STATUS :: PURPLE_MODE_ACTIVE
 
 ---
 
-# 💜 `// PROJECTS`
+# 💜 ` PROJECTS`
 
 <div align="center">
 
@@ -174,7 +157,7 @@ Programação e desenvolvimento de sistemas.
 
 ---
 
-# 💜 `// GITHUB_ANALYTICS`
+# 💜 ` GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -194,7 +177,7 @@ Programação e desenvolvimento de sistemas.
 
 ---
 
-# 💜 `// CONNECT_WITH_ME`
+# 💜 ` CONNECT_WITH_ME`
 
 <div align="center">
 
