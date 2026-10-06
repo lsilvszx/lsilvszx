@@ -194,36 +194,6 @@ Programação e desenvolvimento de sistemas.
 
 ---
 
-# `CONTRIBUTION_ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lsilvszx&bg_color=0B0614&color=C77DFF&line=9D4EDD&point=C77DFF&area=true&area_color=3C096C&hide_border=true"/>
-
-</div>
-
----
-
-# `GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lsilvszx&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-# `// CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lsilvszx/lsilvszx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # `CONNECT_WITH_ME`
 
 <div align="center">
