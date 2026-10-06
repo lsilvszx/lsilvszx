@@ -210,34 +210,6 @@ Programação e desenvolvimento de sistemas.
 
 <div align="center">
 
-# 💜 `SYSTEM.MESSAGE`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  > CONNECTION ESTABLISHED.                          ║
-║  > DEVELOPER PROFILE LOADED SUCCESSFULLY.           ║
-║                                                      ║
-║  > STATUS ................. ONLINE                   ║
-║  > MODE ................... LEARNING                 ║
-║  > SYSTEM ................. ACTIVE                  ║
-║  > THEME .................. PURPLE                   ║
-║                                                      ║
-║  > KEEP LEARNING.                                    ║
-║  > KEEP BUILDING.                                    ║
-║  > KEEP EVOLVING.                                    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:9D4EDD,25:7B2CBF,50:5A189A,75:240046,100:10001A&section=footer"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/LSILVSZX-PURPLE_MODE-C77DFF?style=for-the-badge&labelColor=10001A"/>
-
-<br><br>
-
 **💜 Designed & built by `lsilvszx` • 2026**
 
 <br>
