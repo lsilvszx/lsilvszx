@@ -8,7 +8,7 @@
 
 ---
 
-# `// SYSTEM.IDENTITY`
+# ` SYSTEM.IDENTITY`
 
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -26,7 +26,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## `> SOBRE MIM`
+## `SOBRE MIM`
 
 Olá! Eu sou **lsilvszx**, estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e criação de experiências digitais.
 
@@ -86,7 +86,7 @@ class Developer:
 
 ---
 
-# `// DEVELOPMENT_ENVIRONMENT`
+# `DEVELOPMENT_ENVIRONMENT`
 
 <div align="center">
 
@@ -104,7 +104,7 @@ class Developer:
 
 ---
 
-# `// CURRENT_OBJECTIVES`
+# `CURRENT_OBJECTIVES`
 
 ```text
 ╭──────────────────────────────────────────────────────╮
@@ -128,7 +128,7 @@ SYSTEM STATUS :: LEARNING_MODE_ACTIVE
 
 ---
 
-# `// PROJECTS`
+# `PROJECTS`
 
 <div align="center">
 
@@ -194,7 +194,7 @@ Programação e desenvolvimento de sistemas.
 
 ---
 
-# `// CONTRIBUTION_ACTIVITY`
+# `CONTRIBUTION_ACTIVITY`
 
 <div align="center">
 
@@ -204,7 +204,7 @@ Programação e desenvolvimento de sistemas.
 
 ---
 
-# `// GITHUB_TROPHIES`
+# `GITHUB_TROPHIES`
 
 <div align="center">
 
@@ -224,7 +224,7 @@ Programação e desenvolvimento de sistemas.
 
 ---
 
-# `// CONNECT_WITH_ME`
+# `CONNECT_WITH_ME`
 
 <div align="center">
 
