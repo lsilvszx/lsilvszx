@@ -26,13 +26,13 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## `SOBRE MIM`
+## `SOBRE MIM` <color🟣> </color>
 
-Olá! Eu sou **lsilvszx**, estudante de **Desenvolvimento de Sistemas** e apaixonado por tecnologia, programação e criação de experiências digitais.
+Olá! Eu sou __lsilvszx__, estudante de __Desenvolvimento de Sistemas__.
 
-Atualmente, estou focado em aprender e aprimorar minhas habilidades em **Front-End**, enquanto exploro **PHP** e **Python** para ampliar meus conhecimentos em desenvolvimento de sistemas.
+Atualmente, estou focada em aprender e aprimorar minhas habilidades em **Front-End**, enquanto exploro **PHP** e **Python** para ampliar meus conhecimentos em desenvolvimento de sistemas.
 
-Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e transformar ideias em experiências digitais.
+Meu objetivo é continuar aprendendo e criar projetos cada vez melhores.
 
 ```python
 class Developer:
